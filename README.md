@@ -1,4 +1,5 @@
-Blog App (Node.js, Express, MongoDB)
+## Blog App (Node.js, Express, MongoDB)
+
 A secure and user-friendly blogging platform built with Node.js, Express, and MongoDB, featuring JWT-based authentication with HTTP-only cookies. Users can sign up, log in, create, edit, and delete their own blogs, while others can only read them.
 
 ## ✨ Features  
@@ -10,8 +11,9 @@ A secure and user-friendly blogging platform built with Node.js, Express, and Mo
 ✅ MongoDB Integration – Blogs and users are stored in a NoSQL database.  
 ✅ RESTful API – Follows best practices for API design.  
 
-🛠️ Tech Stack
-Backend: Node.js, Express.js
-Database: MongoDB (Mongoose ORM)
-Authentication: JWT (JSON Web Tokens) stored in HTTP-only cookies & Bcrypt for password hashing
-Middleware: Express Middleware for logging, authentication, and request tracking
+## 🛠️ Tech Stack
+
+**Backend**: Node.js, Express.js  
+- **Database**: MongoDB (Mongoose ORM)  
+- **Authentication**: JWT (JSON Web Tokens) stored in HTTP-only cookies & Bcrypt for password hashing  
+- **Middleware**: Express Middleware for logging, authentication, and request tracking 
